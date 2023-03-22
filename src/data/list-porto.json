@@ -1,0 +1,36 @@
+
+[
+    {
+    "id": 1 ,
+    "judul" : "Punya Tanah",
+    "kalimat" : "project kelompok saya dari hari senin bootcamp ",
+    "gambar" : "/images/punytanah.svg",
+    "suka" : 10 ,
+    "progres" : "20"
+},
+{
+    "id": 2 ,
+    "judul" : "Login dengan sederhana dengan javascript",
+    "kalimat" : "project individu saya dari harisenin bootcamp  ",
+    "gambar" : "images/login.jpg",
+    "suka" : 20 ,
+    "progres" : "90"
+},
+{
+    "id": 3 ,
+    "judul" : "VCS Dengan Github",
+    "kalimat" : "Project pembelajaran virtual service control dengan github dari harisenin bootcamp ",
+    "gambar" : "images/github.png",
+    "suka" : 10,
+    "progres" : "60"
+},
+{
+    "id": 4 ,
+    "judul" : "Web Page sedernaha",
+    "kalimat" : "project individu tentang html dan css saya dari hari senin bootcamp ",
+    "gambar" : "images/hc.jpg",
+    "suka" : 10,
+    "progres" : 30
+}
+
+]
