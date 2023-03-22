@@ -7,8 +7,9 @@ const Footer = () => {
   return (
 <footer className="footer items-center p-4 bg-neutral text-neutral-content bottom-0 ">
   <div className="items-center grid-flow-col pl-24 ">
-  <p>Copyright © 2023 - create by Diva Agustin</p>
+  <p>Copyright © 2023 - create by Diva Agustin.</p>
   </div> 
+
   <div className="grid-flow-col gap-4 md:place-self-center md:justify-self-end items-center pr-20">
   <a href="https://discord.gg/ygPM2zs2" target="_blank"> 
   <RxDiscordLogo className='p=0 h-8 w-8' /> 

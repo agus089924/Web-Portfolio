@@ -21,10 +21,11 @@ export function Itemslistp ({judul,gambar,kalimat,suka,id,progres}){
                 setCount(count +1);
                 console.log(count)
               }}
-              >suka</button>
+              >suka
+              </button>
             </div>
             </div>
-        </div>
+          </div>
         </div>
         </div>
 

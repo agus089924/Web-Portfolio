@@ -5,7 +5,7 @@ const Paneli = () => {
   return (
 <div className='shadow shadow-neutral'>
     <div className="grid h-max mx-10 justify-center pt-7">
-      <div className="avatar">
+    <div className="avatar">
     <div className=" w-28 rounded-full">
     <img src={poto} />
       </div>
@@ -18,7 +18,6 @@ const Paneli = () => {
         eraseDelay={5000}
         typingDelay={100}
       />
-
 </div>
       <div className='grid justify-center'>
       <p className=' text-center pt-6 text-2xl'>

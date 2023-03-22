@@ -1,6 +1,7 @@
 import React from 'react'
 import  {Itemslist} from "./../portofo/list"
 import datap from "./../../data/list-porto.json"
+
 const Items = () => {
   return (
     <div className='flex justify-center'>
@@ -18,7 +19,6 @@ const Items = () => {
       )
       )}
     </div>
-
   )
 }
 
