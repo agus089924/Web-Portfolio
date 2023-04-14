@@ -1,7 +1,7 @@
 import React from "react";
+import { RxDiscordLogo } from "react-icons/rx";
 import { ImWhatsapp } from "react-icons/im";
 import { FaLinkedinIn } from "react-icons/fa";
-import { RxDiscordLogo } from "react-icons/rx";
 
 const Footer = () => {
   return (
