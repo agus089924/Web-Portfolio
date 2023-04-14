@@ -1,14 +1,14 @@
-import React from 'react'
-import Paneli from './Paneli'
-import Items from '../portofo/Items'
+import React from "react";
+import Paneli from "./Paneli";
+import Items from "../portofo/Items";
 
 const bodyBeranda = () => {
   return (
     <>
-    <Paneli/>
-    <Items/>
+      <Paneli />
+      <Items />
     </>
-  )
-}
+  );
+};
 
-export default bodyBeranda
+export default bodyBeranda;
